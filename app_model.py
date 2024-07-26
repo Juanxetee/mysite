@@ -9,7 +9,7 @@ import numpy as np
 
 # os.chdir(os.path.dirname(__file__))
 
-root_path = '/home/Juanxetee/mysite'
+root_path = '/home/Juanxetee/mysite/'
 app = Flask(__name__)
 app.config['DEBUG'] = True
 
